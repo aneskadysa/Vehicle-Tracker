@@ -18,7 +18,6 @@ import {
   Clock,
   Route,
 } from 'lucide-react';
-import type { Vehicle } from '../types/vehicle';
 
 interface VehicleDetailProps {
   vehicleId: number;
